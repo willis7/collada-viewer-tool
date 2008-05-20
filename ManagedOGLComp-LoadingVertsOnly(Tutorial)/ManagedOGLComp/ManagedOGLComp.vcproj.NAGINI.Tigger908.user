@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioUserFile
+	ProjectType="Visual C++"
+	Version="8.00"
+	ShowAllFiles="false"
+	>
+	<Configurations>
+		<Configuration
+			Name="Debug|Win32"
+			>
+			<DebugSettings
+				Command="I:\Documents and Settings\Tigger908\My Documents\Uni-Work\TakeHome\GamesContentEngineering\Lectures\Semester2\Lectures\Lecture 13 - ColladaDOM\CShrpWindow-newImproved(Tutorial)\CShrpWindow\bin\Debug\CShrpWindow.exe"
+				WorkingDirectory=""
+				CommandArguments=""
+				Attach="false"
+				DebuggerType="3"
+				Remote="1"
+				RemoteMachine="NAGINI"
+				RemoteCommand=""
+				HttpUrl=""
+				PDBPath=""
+				SQLDebugging=""
+				Environment=""
+				EnvironmentMerge="true"
+				DebuggerFlavor="0"
+				MPIRunCommand=""
+				MPIRunArguments=""
+				MPIRunWorkingDirectory=""
+				ApplicationCommand=""
+				ApplicationArguments=""
+				ShimCommand=""
+				MPIAcceptMode=""
+				MPIAcceptFilter=""
+			/>
+		</Configuration>
+		<Configuration
+			Name="Release|Win32"
+			>
+			<DebugSettings
+				Command=""
+				WorkingDirectory=""
+				CommandArguments=""
+				Attach="false"
+				DebuggerType="3"
+				Remote="1"
+				RemoteMachine="NAGINI"
+				RemoteCommand=""
+				HttpUrl=""
+				PDBPath=""
+				SQLDebugging=""
+				Environment=""
+				EnvironmentMerge="true"
+				DebuggerFlavor=""
+				MPIRunCommand=""
+				MPIRunArguments=""
+				MPIRunWorkingDirectory=""
+				ApplicationCommand=""
+				ApplicationArguments=""
+				ShimCommand=""
+				MPIAcceptMode=""
+				MPIAcceptFilter=""
+			/>
+		</Configuration>
+	</Configurations>
+</VisualStudioUserFile>

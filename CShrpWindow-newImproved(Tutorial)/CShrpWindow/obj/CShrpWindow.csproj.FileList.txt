@@ -1,0 +1,10 @@
+bin\Debug\CShrpWindow.exe
+bin\Debug\CShrpWindow.pdb
+bin\Debug\ManagedOGLComp.dll
+bin\Debug\ManagedOGLComp.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CShrpWindow.Form1.resources
+obj\Debug\CShrpWindow.Properties.Resources.resources
+obj\Debug\CShrpWindow.csproj.GenerateResource.Cache
+obj\Debug\CShrpWindow.exe
+obj\Debug\CShrpWindow.pdb
